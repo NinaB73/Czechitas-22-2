@@ -6,7 +6,10 @@ let vaha = 65;
 let vyska = 1.67;
 let BMI = 1.67 * 1.67;
 
+
 console.log(jmeno);
+console.log('Jmenuji se : 'jmeno');
+
 
 
 
