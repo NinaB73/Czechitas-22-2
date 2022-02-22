@@ -9,7 +9,8 @@ let BMI = 1.67 * 1.67;
 
 console.log(jmeno);
 console.log('Jmenuji se ' + jmeno + ' a je mi'+' '+ vek);
-consoel.log('Vazim '+ vaha + ' a merim '+ vyska);
+consoel.log('Vazim ' + vaha + ' a merim '+' '+ vyska);
+
 
 
 
