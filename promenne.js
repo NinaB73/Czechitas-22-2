@@ -8,7 +8,8 @@ let BMI = 1.67 * 1.67;
 
 
 console.log(jmeno);
-console.log('Jmenuji se : ' + 'jmeno');
+console.log('Jmenuji se : ' + jmeno + ');
+
 
 
 
