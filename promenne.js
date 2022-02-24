@@ -12,6 +12,24 @@ console.log('Jmenuji se ' + jmeno + ' a je mi'+' '+ vek);
 console.log('Vazim ' + vaha + ' ' + 'kg' + ' a merim '+' '+ vyska);
 console.log(BMI);
 
+console.log('Moje BMI je' + ' ' + BMI);
+
+
+
+let dolni = Number(prompt('od kterého čísla:'));
+let horni = Number(prompt('do kterého čísla:'));
+
+for (let i = dolni; i <= horni; i + 1); {
+console.log(i);
+
+}
+
+
+
+
+
+
+
 
 
 
